@@ -1,0 +1,14 @@
+com/youtube_insta/BuildConfig.java
+ com.youtube_insta.BuildConfig
+com/youtube_insta/MainActivity.java
+ com.youtube_insta.MainActivity
+com/youtube_insta/ReactNativeFlipper.java
+ com.youtube_insta.ReactNativeFlipper
+ com.youtube_insta.ReactNativeFlipper$1
+ com.youtube_insta.ReactNativeFlipper$2
+ com.youtube_insta.ReactNativeFlipper$2$1
+com/youtube_insta/MainApplication.java
+ com.youtube_insta.MainApplication
+ com.youtube_insta.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
